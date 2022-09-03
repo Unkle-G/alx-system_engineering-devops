@@ -1,1 +1,1 @@
-File type: School
+Create a magic files
